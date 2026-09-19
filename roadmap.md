@@ -1,0 +1,4 @@
+- [x] Choose the visual direction for QuickFix
+- [ ] Build responsive home and troubleshooting workspace
+- [ ] Add all requested static troubleshooting flows
+- [ ] Verify the main interactions and responsive layout
